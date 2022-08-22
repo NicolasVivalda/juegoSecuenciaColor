@@ -91,4 +91,3 @@ function actualizarTurno (turno) {
 function actualizarRonda (ronda) {
     document.querySelector ("#ronda").innerText = `# ${ronda}`;
 }
-
